@@ -1,2 +1,3 @@
 # SpacyNER
-- This custom NER using Spacy model
+- This custom Named Entity Recognition using Spacy model
+- Library used - Spacy
